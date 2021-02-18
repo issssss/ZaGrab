@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="glkol" size="0.200000 0.123044" />
+    <ImageTarget name="umjetnicki" size="0.200000 0.167442" />
+    <ImageTarget name="hnk-naslovna" size="0.200000 0.176238" />
+    <ImageTarget name="drzavni" size="0.200000 0.146774" />
+    <ImageTarget name="Zagrebacka_katedrala" size="20.000000 6.345238" />
+  </Tracking>
+</QCARConfig>
